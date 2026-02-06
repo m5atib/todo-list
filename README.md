@@ -8,9 +8,11 @@ a todo list web app using HTML, Tailwindcss and JavaScript
 
 link to [demo](https://cleantodolist.netlify.app)
 
-IMG1
-IMG2
-IMG3
+![web1](https://user-images.githubusercontent.com/64478989/204138349-63a52006-e11d-4f9e-b602-946a19982593.png)
+![Screenshot 2022-11-27 154540](https://user-images.githubusercontent.com/64478989/204138652-1d82fa78-d452-460f-a198-5de3fd6810c2.png)
+![Screenshot 2022-11-27 154605](https://user-images.githubusercontent.com/64478989/204138654-462d13ed-1d36-4e35-a671-b2268892eb03.png)
+![Screenshot 2022-11-27 154635](https://user-images.githubusercontent.com/64478989/204138666-97296522-4dbd-4329-a36a-9af536109dec.png)
+
 
 
 ## Features
@@ -117,5 +119,3 @@ I learned more about javascript specifically with DOM, Events, Network Requests,
 
 Thanks for reading💘
 
-
-## More Screenshots
